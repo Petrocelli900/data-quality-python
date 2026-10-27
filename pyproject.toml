@@ -1,0 +1,5 @@
+[project]
+name = "data-quality-python"
+version = "0.1.0"
+requires-python = ">=3.11"
+description = "Validador de CSV com esquema explícito, tipos, obrigatoriedade, unicidade e relatório JSON."

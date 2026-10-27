@@ -1,0 +1,1 @@
+{"id":{"kind":"integer","unique":true},"email":{"kind":"email"},"value":{"kind":"decimal"}}
